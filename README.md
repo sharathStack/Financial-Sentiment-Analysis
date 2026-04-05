@@ -1,4 +1,4 @@
-Sentiment Analysis on Financial News (HuggingFace DistilBERT)
+# Sentiment Analysis on Financial News (HuggingFace DistilBERT)
 ![HuggingFace](https://img.shields.io/badge/NLP-HuggingFace-yellow)
 ![PyTorch](https://img.shields.io/badge/DL-PyTorch-ee4c2c)
 ![MLflow](https://img.shields.io/badge/Tracking-MLflow-blue)

@@ -19,7 +19,10 @@ Run
 pip install -r DS2_FinSentiment__requirements.txt
 python DS2_FinSentiment__main.py
 ```
-Results
+## Results
+
 +12% accuracy over zero-shot FinBERT baseline
+
 Macro F1 improved from ~0.68 → ~0.81
+
 Model saved to `./fin_sentiment_model` (reload without retraining)
